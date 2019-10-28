@@ -1,4 +1,4 @@
-# BDASProject
+# Big Data Analytics (BDAS) Project with PySpark
 
 The usa_00007.csv file is the file i've used for this project
 
